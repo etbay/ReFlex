@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Multiplayer Platformer.sln"
+    "dotnet.defaultSolution": "ReFlex.sln"
 }
